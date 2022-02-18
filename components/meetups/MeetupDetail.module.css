@@ -1,0 +1,10 @@
+.detail {
+          text-align: center;
+          padding: 15px;
+          border: 15px solid silver;
+          border-radius: 15px;
+}
+
+.detail img {
+          width: 100%;
+}
